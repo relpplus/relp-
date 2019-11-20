@@ -1,0 +1,449 @@
+frase: Como de_costume, a conferência de Steve_Jobs, o director-geral de a empresa, foi o ponto alto para os fãs de a Apple. '
+tripla: (Steve_Jobs, o director-geral de foi o ponto alto para os fãs de, Apple)
+certo: ['0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+previ: ['0', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0']
+
+frase: O biólogo William_Eberhard, de a Universidade_da_Costa_Rica, descobriu que as larvas de esse inseto, a o parasitar a aranha Plesiometa argyra, provocam mudanças em o comportamento de a hospedeira.
+tripla: (William_Eberhard, de, Universidade_da_Costa_Rica)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: New_Scientist não pode contatar Hale.
+tripla: (New_Scientist, não pode contatar, Hale)
+certo: ['1', '0', '1']
+previ: ['1', '1', '1']
+
+frase: Em 1956, Amílcar_Cabral criou o Partido_Africano para a Independência_da_Guiné e Cabo_Verde (PAIGC), lutando contra o colonialismo e iniciando uma marcha para a independência.
+tripla: (Amílcar_Cabral, criou, Partido_Africano)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Gaza subvive de as esmolas iranianas, sauditas e de os Emiratos, e a Cisjordânia subvive de doações de a Europa, de a América, de Estados_árabes e de as Nações_Unidas.
+tripla: (Cisjordânia, subvive de, Nações_Unidas)
+certo: ['1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+previ: ['1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+
+frase: Esse vírus é antigo e é uma zoonose', diz o virologista Paolo_Zanotto, de a USP, que está preparando um diagnóstico molecular de a pneumonia.
+tripla: (Paolo_Zanotto, de, USP)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: A crise já tinha sido solucionada, após uma reunião em a casa de o procurador geral Aristides_Junqueira, que juntou as principais lideranças de o Congresso, membros de o Supremo_Tribunal_Federal e FHC.
+tripla: (Aristides_Junqueira, juntou as lideranças de, Congresso)
+certo: ['0', '0', '1', '1', '0', '1', '1', '0']
+previ: ['0', '0', '1', '1', '0', '1', '1', '0']
+
+frase: A abertura de o evento contou com a presença de Fernando_Gomes, presidente de a Câmara_Municipal_do_Porto, e de o vereador Wan_Chun, em representação de Sales_Marques, presidente de o Leal_Senado, a_qual foi enriquecida com um pequeno concerto em que os instrumentistas Wong_On_Yuen e António_Ferro, tocando ehru e viola-baixo, respectivamente, interpretaram várias peças editadas em o disco compacto Sinais_de_Yuanju.
+tripla: (Câmara_Municipal_do_Porto, , Wan_Chun)
+certo: ['0', '0', '0', '0', '1']
+previ: ['0', '0', '0', '0', '0']
+
+frase: Gaza subvive de as esmolas iranianas, sauditas e de os Emiratos, e a Cisjordânia subvive de doações de a Europa, de a América, de Estados_árabes e de as Nações_Unidas.
+tripla: (Cisjordânia, subvive de, Estados_árabes)
+certo: ['1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+previ: ['1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+
+frase: E forças de o Cioe tomam a RTP e o RCP em o Porto.
+tripla: (Cioe, tomam, RCP)
+certo: ['1', '0', '0', '0', '0']
+previ: ['1', '0', '0', '0', '0']
+
+frase: Para analistas como Kris_Voorspools, de a Fortis, em Bruxelas, o 'preço de o petróleo pode continuar a subir', por se estar perante o 'simples fundamento de a oferta e de a procura'.
+tripla: (Kris_Voorspools, de, Fortis)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: A nossa Escola_de_Pilotagem ajudou a formar dezenas_de pilotos particulares e profissionais, sendo actualmente dirigida por o Cmdt.João_Filhó, um profissional de a aviação que trabalha em a Portugália, e que é um entre as dezenas_de profissionais que iniciaram ou reforçaram a sua actividade de pilotos em o ACTV.
+tripla: (Escola_de_Pilotagem, sendo actualmente dirigida por, Cmdt.João_Filhó)
+certo: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '0']
+
+frase: E forças de o Cioe tomam a RTP e o RCP em o Porto.
+tripla: (Cioe, tomam em, Porto)
+certo: ['0', '0', '0', '0', '0', '0', '1', '0']
+previ: ['1', '0', '0', '0', '0', '0', '1', '0']
+
+frase: É aí que novos padrões vêm a a tona: correlações entre espécies diferentes, características de a paisagem e outros fatores que não poderiam ser descobertos de outra maneira ', afirma Jason_Knight, instrutor de a Wilderness_Awareness_School em Duvall, Washington.
+tripla: (Jason_Knight, instrutor de, Wilderness_Awareness_School)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: A crise já tinha sido solucionada, após uma reunião em a casa de o procurador geral Aristides_Junqueira, que juntou as principais lideranças de o Congresso, membros de o Supremo_Tribunal_Federal e FHC.
+tripla: (Aristides_Junqueira, juntou as membros de, Supremo_Tribunal_Federal)
+certo: ['0', '0', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0']
+previ: ['0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '1', '1', '0']
+
+frase: O Hamas a mandar em Gaza, e a OLP a fingir que manda em a Cisjordânia.
+tripla: (Hamas, mandar em, Gaza)
+certo: ['0', '1', '1']
+previ: ['0', '1', '1']
+
+frase: Desde aí que se conhecem as razões de substância para este já longo silêncio: o PSD aproximou-se politicamente de o PS como nunca esteve antes, a o ponto de se oferecer para co-governar em praticamente todas_as áreas.
+tripla: (PSD, aproximou -se politicamente de, PS)
+certo: ['1', '0', '1', '1', '0']
+previ: ['1', '1', '1', '1', '0']
+
+frase: Stuart_Lipton, de o Instituto_Burnham, Califórnia, não duvida:
+tripla: (Instituto_Burnham, , Califórnia)
+certo: ['1']
+previ: ['0']
+
+frase: Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por Nauman_Barakat, vice-presidente de a Macquarie_Futures de os EUA.
+tripla: (Macquarie_Futures, de, EUA)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: O navio trazia compensados de madeira exportados por a Selvaplac, subsidiária brasileira de um grupo de a Malásia.
+tripla: (Selvaplac, , Malásia)
+certo: ['0', '1', '1', '1', '1', '1', '1', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0']
+
+frase: A abertura de o evento contou com a presença de Fernando_Gomes, presidente de a Câmara_Municipal_do_Porto, e de o vereador Wan_Chun, em representação de Sales_Marques, presidente de o Leal_Senado, a_qual foi enriquecida com um pequeno concerto em que os instrumentistas Wong_On_Yuen e António_Ferro, tocando ehru e viola-baixo, respectivamente, interpretaram várias peças editadas em o disco compacto Sinais_de_Yuanju.
+tripla: (Fernando_Gomes, presidente de, Câmara_Municipal_do_Porto)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: sustentou Orlando_Gonçalves, revelando que a Fanorte vai agora 'exigir uma explicação de a Câmara'.
+tripla: (Fanorte, exigir uma explicação de, Câmara)
+certo: ['0', '0', '0', '1', '1', '1', '1', '0']
+previ: ['0', '0', '0', '1', '1', '1', '1', '0']
+
+frase: A nossa Escola_de_Pilotagem ajudou a formar dezenas_de pilotos particulares e profissionais, sendo actualmente dirigida por o Cmdt.João_Filhó, um profissional de a aviação que trabalha em a Portugália, e que é um entre as dezenas_de profissionais que iniciaram ou reforçaram a sua actividade de pilotos em o ACTV.
+tripla: (Cmdt.João_Filhó, trabalha em, Portugália)
+certo: ['0', '0', '0', '0', '0', '0', '0', '1', '1', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '1', '1', '0']
+
+frase: A sorte de os cientistas liderados por Jillian_Banfield, de a Universidade_da_Califórnia em Berkeley, foi que a amostra de efluentes ácidos analisada tinha um pequeno número de organismos.
+tripla: (Jillian_Banfield, de, Universidade_da_Califórnia)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: E forças de o Cioe tomam a RTP e o RCP em o Porto.
+tripla: (Cioe, tomam, RTP)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por Nauman_Barakat, vice-presidente de a Macquarie_Futures de os EUA.
+tripla: (Nauman_Barakat, vice-presidente de, Macquarie_Futures)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: O trabalho foi coordenado por o geocientista Charles_Vörösmarty, de a Universidade_de_New_Hampshire, em os Estados_Unidos.
+tripla: (Charles_Vörösmarty, de, Universidade_de_New_Hampshire)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: A Legião_da_Boa_Vontade comemora amanhã o 10º. aniversário de a sua implantação em Portugal com cerimónias de carácter religioso e de convívio - disse ontem fonte de a organização.
+tripla: (Legião_da_Boa_Vontade, implantação em, Portugal)
+certo: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1']
+
+frase: Sarkozy, e Blair, e os europeus, sendo a Europa o maior dador de dinheiro para os palestinianos e já vamos ver porquê, não podem desconhecer que nem Mahmoud_Abbas é um chefe com apoio popular em a Cisjordânia nem a OLP, dominada por a Fatah, tem apoio popular em Gaza.
+tripla: (OLP, dominada por, Fatah)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: A escavação de este ano, realizada em julho e agosto, foi organizada por o Centro_Nacional_de_Arqueologia_Náutica_e_Subaquática de o Instituto_Português_de_Arqueologia.
+tripla: (Centro_Nacional_de_Arqueologia_Náutica_e_Subaquática, de, Instituto_Português_de_Arqueologia)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Experimentos coordenados por Carl_Cotman, de a Universidade_da_Califórnia em Irvine, mostraram resultados animadores em cães em a fase de envelhecimento (a_partir_de os 9 anos de vida), em na_qual os animais podem desenvolver uma doença que lembra Alzheimer.
+tripla: (Universidade_da_Califórnia, em, Irvine)
+certo: ['1']
+previ: ['1']
+
+frase: É urgente que aquela comissão averigúe por_que razão os Estados_Membros estão a ignorar as leis de a UE em matéria de segurança marítima e não se trata apenas de a Grécia.
+tripla: (Estados_Membros, em apenas de, Grécia)
+certo: ['0', '0', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0']
+
+frase: A RCM gostaria de ouvir o Concelho_de_Mafra sobre um assunto de vital importância para toda_a comunidade internacional; consulte a página de Opinião e diga-nos o que pensa sobre este conflito.
+tripla: (RCM, , Concelho_de_Mafra)
+certo: ['1', '1', '1', '0']
+previ: ['0', '0', '0', '0']
+
+frase: Stuart_Lipton, de o Instituto_Burnham, Califórnia, não duvida:
+tripla: (Stuart_Lipton, de, Instituto_Burnham)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: Após a implantação de a 1ª. Republica (1910-1926), aderiu a o novo regime, tendo comabtido ao_lado_de António_José_de_Almeida em o Partido_Evolucionista.
+tripla: (António_José_de_Almeida, em, Partido_Evolucionista)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Em o Norte, uma força de o CICA_1 liderada por o Tenente-Coronel Carlos_Azeredo toma o Quartel_General_da_Região_Militar_do_Porto.
+tripla: (Norte, uma força de, CICA_1)
+certo: ['0', '1', '1', '1', '0']
+previ: ['0', '1', '1', '1', '0']
+
+frase: Experimentos coordenados por Carl_Cotman, de a Universidade_da_Califórnia em Irvine, mostraram resultados animadores em cães em a fase de envelhecimento (a_partir_de os 9 anos de vida), em na_qual os animais podem desenvolver uma doença que lembra Alzheimer.
+tripla: (Carl_Cotman, de, Universidade_da_Califórnia)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: Sem esse lado reformista, o PSD ficará tão próximo de o Governo e de o PS que, à luz de um, não se vê a sombra de o outro.
+tripla: (PSD, , PS)
+certo: ['1', '1', '1', '1', '0', '0', '0', '0', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0', '0']
+
+frase: O Goa_Tourism_Development_Corporation_Office organiza excursões a Goa.
+tripla: (Goa_Tourism_Development_Corporation_Office, organiza excursões a, Goa)
+certo: ['1', '1', '1']
+previ: ['1', '1', '1']
+
+frase: A administração, vendas e a fábrica de a Marfinite ficam em Itaquaquecetuba, em a Grande_São_Paulo, em um terreno de 230l metros_quadrados, com 25l metros_quadrados de área construída.
+tripla: (Marfinite, ficam em, Itaquaquecetuba)
+certo: ['1', '1']
+previ: ['1', '1']
+
+frase: Haverá observação nocturna de o céu com telescópios e será ainda apresentado o programa de o Observatório_Astronómico de a Universidade_de_Coimbra 'Sol para Todos'.
+tripla: (Observatório_Astronómico, de, Universidade_de_Coimbra)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Para Ida_Sano_Martins, que estuda a fisiologia de venenos em o Instituto_Butantan, em São_Paulo, a estratégia poderia vencer algumas limitações de os soros antiofídicos atuais.
+tripla: (Instituto_Butantan, em, São_Paulo)
+certo: ['0', '1']
+previ: ['0', '1']
+
+frase: Com esta aposta em a imagem, os portos de Setúbal e Sesimbra preparam-se para o fim de a década, quando tiverem como grande cliente a fábrica de a Ford/Volkswagen.
+tripla: (Sesimbra, quando tiverem, Ford/Volkswagen)
+certo: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0']
+
+frase: Benazir_Bhutto contava com a simpatia de os Eua por_conta.
+tripla: (Benazir_Bhutto, contava com, Eua)
+certo: ['1', '1', '1', '1', '1', '0']
+previ: ['1', '1', '0', '0', '0', '0']
+
+frase: Igualmente em essa conferência, Portugal conseguiu de a Espanha o reconhecimento de seus direitos sobre a colônia de o Sacramento.
+tripla: (Portugal, conseguiu de, Espanha)
+certo: ['1', '1', '0']
+previ: ['1', '1', '0']
+
+frase: Gaza subvive de as esmolas iranianas, sauditas e de os Emiratos, e a Cisjordânia subvive de doações de a Europa, de a América, de Estados_árabes e de as Nações_Unidas.
+tripla: (Cisjordânia, subvive de doações de, Europa)
+certo: ['1', '1', '0', '0', '0']
+previ: ['1', '1', '1', '1', '0']
+
+frase: Primeiro, pede que a CTNBio (Comissão_Técnica_Nacional_de_Biossegurança) seja a única instância a regulamentar tanto a pesquisa como a comercialização de transgênicos, em o âmbito de o mérito científico.
+tripla: (CTNBio, (, Comissão_Técnica_Nacional_de_Biossegurança)
+certo: ['1']
+previ: ['1']
+
+frase: Em o mesmo registo, Martin_SCHULZ (PSE, DE), líder de o PSE, recordou que, em a República_de_Weimar, se queria acabar com os inimigos em_forma_de coro e quem dirigia esse coro era Hitler '.
+tripla: (Martin_SCHULZ, (, PSE)
+certo: ['0']
+previ: ['1']
+
+frase: É urgente que aquela comissão averigúe por_que razão os Estados_Membros estão a ignorar as leis de a UE em matéria de segurança marítima e não se trata apenas de a Grécia.
+tripla: (Estados_Membros, ignorar as leis de, UE)
+certo: ['0', '0', '1', '1', '1', '1', '0']
+previ: ['0', '0', '1', '1', '1', '1', '0']
+
+frase: A a Escola_Prática_de_Cavalaria coube o papel mais importante, a ocupação de o Terreiro_do_Paço.
+tripla: (Escola_Prática_de_Cavalaria, ocupação de, Terreiro_do_Paço)
+certo: ['0', '0', '0', '0', '0', '0', '1', '1', '1', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '1', '1', '0']
+
+frase: A reunião começou anteontem em o campus de a UnB ( Universidade_de_Brasília ).
+tripla: (UnB, (, Universidade_de_Brasília)
+certo: ['1']
+previ: ['1']
+
+frase: A sorte de os cientistas liderados por Jillian_Banfield, de a Universidade_da_Califórnia em Berkeley, foi que a amostra de efluentes ácidos analisada tinha um pequeno número de organismos.
+tripla: (Universidade_da_Califórnia, em, Berkeley)
+certo: ['1']
+previ: ['1']
+
+frase: Em a mesma linha, o vereador lembra que a Ferro-Têxtil foi licenciada por o Ministério_da_Indústria de o Governo cessante, a quem deverá ser imputada a responsabilidade de eventuais problemas.
+tripla: (Ministério_da_Indústria, de, Governo)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: A Abraço é uma Instituição_Particular_de_Solidariedade_Social.
+tripla: (Abraço, é uma, Instituição_Particular_de_Solidariedade_Social)
+certo: ['1', '0']
+previ: ['1', '1']
+
+frase: Também o Presidente em_exercício de o Conselho de a UE, José_SÓCRATES, destacou o dia de hoje como 'uma data fundamental em a história de a integração europeia'.
+tripla: (Conselho, de, UE)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Através_da Casa_de_Cinema de Porto_Alegre, esse grupo produziu obras-primas como o curta-metragem Ilha_das_Flores e apresentou para o país cineastas como Jorge_Furtado, considerado um de os mais interessantes realizadores de o cinema brasileiro atual.
+tripla: (Casa_de_Cinema, de, Porto_Alegre)
+certo: ['1']
+previ: ['1']
+
+frase: Sem esse lado reformista, o PSD ficará tão próximo de o Governo e de o PS que, à luz de um, não se vê a sombra de o outro.
+tripla: (PSD, ficará tão próximo de, Governo)
+certo: ['1', '1', '1', '1', '0']
+previ: ['1', '1', '1', '1', '0']
+
+frase: Clayton_Campanhola, diretor-presidente de a Embrapa, afirma que o método ajudará em a multiplicação de animais de elevado valor genético ou em a reprodução de os ameaçados de extinção.
+tripla: (Clayton_Campanhola, diretor-presidente de, Embrapa)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: As forças de a Escola_Prática_de_Cavalaria eram comandadas por o então comandante Salgueiro_Maia.
+tripla: (Escola_Prática_de_Cavalaria, comandadas por o então comandante, Salgueiro_Maia)
+certo: ['0', '1', '1', '0', '0', '0']
+previ: ['0', '1', '1', '1', '1', '1']
+
+frase: É aí que novos padrões vêm a a tona: correlações entre espécies diferentes, características de a paisagem e outros fatores que não poderiam ser descobertos de outra maneira ', afirma Jason_Knight, instrutor de a Wilderness_Awareness_School em Duvall, Washington.
+tripla: (Wilderness_Awareness_School, em, Duvall)
+certo: ['1']
+previ: ['1']
+
+frase: Em o próximo sábado, a as 16h, Ronaldo_Lemos, diretor de o Creative_Commons em o Brasil, irá participar de um debate com os membros de o Superflex, em a Vermelho, e logo após será realizada uma gincana intitulada 'Free_Beer_Pub_Quiz', em a_qual participantes receberão prêmios a o responderem questões sobre propriedade intelectual e direitos_autorais.
+tripla: (Creative_Commons, em, Brasil)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Foi ainda o obreiro em o restabelecimento de as relações diplomáticas de Portugal com o Vaticano.
+tripla: (Portugal, com, Vaticano)
+certo: ['1', '0']
+previ: ['1', '0']
+
+frase: Em a mesma linha, o vereador lembra que a Ferro-Têxtil foi licenciada por o Ministério_da_Indústria de o Governo cessante, a quem deverá ser imputada a responsabilidade de eventuais problemas.
+tripla: (Ferro-Têxtil, licenciada por, Ministério_da_Indústria)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: O fogo, que se iniciou cerca_de as 02h30 horas e só foi dado como extinto a as 05h20, ocorreu em o restaurante 'Porto_Fino', em a rua Padrão.
+tripla: (Porto_Fino, em, Padrão)
+certo: ['0', '0', '1', '1', '1']
+previ: ['0', '0', '1', '0', '0']
+
+frase: Em Dublin, a maior é a Eason_and_Son, que tem uma variedade enorme de a literatura irlandesa.
+tripla: (Dublin, a maior é, Eason_and_Son)
+certo: ['0', '1', '1', '1', '0']
+previ: ['0', '1', '1', '1', '0']
+
+frase: Abbas pode fingir mandar em Ramallah e em a clientela privilegiada de uma organização que não soube constituir-se como fonte legítima de o poder palestiniano, não pode fingir que é considerado em Jenin e Hebron, em Nablus e Tulkarem, em Jericó e Jerusalém_Oriental.
+tripla: (Abbas, mandar em, Ramallah)
+certo: ['0', '0', '1', '1']
+previ: ['0', '0', '1', '1']
+
+frase: Com esta aposta em a imagem, os portos de Setúbal e Sesimbra preparam-se para o fim de a década, quando tiverem como grande cliente a fábrica de a Ford/Volkswagen.
+tripla: (Setúbal, quando tiverem, Ford/Volkswagen)
+certo: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0']
+
+frase: Em este âmbito de as parcerias sociais, o próprio Governo deverá ter o cuidado de começar a solicitar a o CEC participação e nós podemos participar em as comissões especializadas e estar cada_vez_mais próximos de as tomadas de decisão e afluir em essas mesmas decisões.
+tripla: (Governo, ter solicitar a, CEC)
+certo: ['0', '0', '0', '0', '0', '0', '0', '1', '1', '0']
+previ: ['0', '1', '0', '0', '0', '0', '0', '1', '1', '0']
+
+frase: Gaza subvive de as esmolas iranianas, sauditas e de os Emiratos, e a Cisjordânia subvive de doações de a Europa, de a América, de Estados_árabes e de as Nações_Unidas.
+tripla: (Gaza, subvive de, Emiratos)
+certo: ['1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+previ: ['1', '1', '0', '0', '0', '0', '0', '0', '0', '0']
+
+frase: Em Waterford, visite a fábrica de cristais Waterford (Waterford_Crystal_Factory), que foi fundada em 1783 e fica a 2,5 km a o sul de o centro de a cidade.
+tripla: (Waterford, visite fundada em sul de centro de, Waterford)
+certo: ['0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+previ: ['0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '1', '1', '0', '0', '0']
+
+frase: Kevin_Hale, o responsável de segurança de a NAS as, disse-me que era porque alguém havia exprimido preocupação.
+tripla: (Kevin_Hale, o responsável de segurança de, NAS)
+certo: ['0', '1', '1', '1', '0', '0', '0']
+previ: ['0', '1', '1', '1', '1', '1', '0']
+
+frase: O projeto, desenvolvido por a USP de Ribeirão, consegue produzir o biodiesel a_partir_de a mistura de óleo vegetal (incluindo o de soja) e etanol, álcool derivado de a cana-de-açúcar.
+tripla: (USP, de, Ribeirão)
+certo: ['1']
+previ: ['1']
+
+frase: A Lusa tentou contactar o porta-voz de a ASAE para obter esclarecimentos adicionais mas tal foi impossível até a o momento.
+tripla: (Lusa, contactar o porta-voz de, ASAE)
+certo: ['0', '1', '1', '1', '1', '0']
+previ: ['0', '1', '1', '1', '1', '0']
+
+frase: Pesquisadores de a Universidade_de_Michigan em Ann_Arbor, em os Estados_Unidos, sugerem que os olhos de asiáticos tendem a ver uma imagem em o seu conjunto, prestando tanto atenção a o que está em primeiro plano quanto em o fundo, enquanto os americanos demoram mais o olhar em o objeto central de um quadro.
+tripla: (Universidade_de_Michigan, em em, Estados_Unidos)
+certo: ['1', '0', '0', '0', '0', '0']
+previ: ['1', '0', '0', '0', '1', '0']
+
+frase: O Hamas a mandar em Gaza, e a OLP a fingir que manda em a Cisjordânia.
+tripla: (OLP, manda em, Cisjordânia)
+certo: ['0', '0', '0', '1', '1', '0']
+previ: ['0', '0', '0', '1', '1', '0']
+
+frase: O CEC é o interlocutor natural junto de a CCR para todas_as associações de a região centro, portanto junto de o poder regional.
+tripla: (CEC, , CCR)
+certo: ['0', '0', '1', '0', '0', '0', '0']
+previ: ['0', '0', '0', '0', '0', '0', '0']
+
+frase: Em o próximo sábado, a as 16h, Ronaldo_Lemos, diretor de o Creative_Commons em o Brasil, irá participar de um debate com os membros de o Superflex, em a Vermelho, e logo após será realizada uma gincana intitulada 'Free_Beer_Pub_Quiz', em a_qual participantes receberão prêmios a o responderem questões sobre propriedade intelectual e direitos_autorais.
+tripla: (Ronaldo_Lemos, diretor de, Creative_Commons)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: Gaza subvive de as esmolas iranianas, sauditas e de os Emiratos, e a Cisjordânia subvive de doações de a Europa, de a América, de Estados_árabes e de as Nações_Unidas.
+tripla: (Cisjordânia, subvive de, América)
+certo: ['1', '1', '0', '0', '0', '0', '0', '0', '0']
+previ: ['1', '1', '0', '0', '0', '0', '0', '0', '0']
+
+frase: Sarkozy, e Blair, e os europeus, sendo a Europa o maior dador de dinheiro para os palestinianos e já vamos ver porquê, não podem desconhecer que nem Mahmoud_Abbas é um chefe com apoio popular em a Cisjordânia nem a OLP, dominada por a Fatah, tem apoio popular em Gaza.
+tripla: (OLP, dominada por em, Gaza)
+certo: ['0', '0', '0', '0', '0', '0', '1', '1', '0', '1']
+previ: ['0', '1', '1', '0', '0', '0', '0', '0', '0', '1']
+
+frase: o Governo russo acredita em o Pai_Natal e quer que as criancinhas também acreditem.
+tripla: (Governo, russo acredita em, Pai_Natal)
+certo: ['0', '1', '1', '0']
+previ: ['1', '1', '1', '0']
+
+frase: O fogo, que deflagrou cerca_de as 06h50 em uma casa térrea, causou ferimentos em uma idosa de 82 anos, o caso mais grave, e em o seu enteado, um homem de 32 anos, ambos transportados para o Hospital_de_São_João, em o Porto.
+tripla: (Hospital_de_São_João, em, Porto)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: A descoberta, segundo pesquisadores de a Universidade_de_Wisconsin-Madison (EUA), poderá levar a a compreensão de como as epidemias de a doença surgem e qual a melhor forma de combatê-las.
+tripla: (Universidade_de_Wisconsin-Madison, (, EUA)
+certo: ['1']
+previ: ['1']
+
+frase: Segundo Cassius_Vinicius_Stevani, químico de a USP que coordena os estudos, é possível que o material recolhido abranja por o menos_dez espécies novas.
+tripla: (Cassius_Vinicius_Stevani, químico de, USP)
+certo: ['0', '1', '1', '0']
+previ: ['0', '1', '1', '0']
+
+frase: Para analistas como Kris_Voorspools, de a Fortis, em Bruxelas, o 'preço de o petróleo pode continuar a subir', por se estar perante o 'simples fundamento de a oferta e de a procura'.
+tripla: (Fortis, , Bruxelas)
+certo: ['0', '1']
+previ: ['0', '0']
+
+frase: O trabalho foi coordenado por o geocientista Charles_Vörösmarty, de a Universidade_de_New_Hampshire, em os Estados_Unidos.
+tripla: (Universidade_de_New_Hampshire, em, Estados_Unidos)
+certo: ['0', '1', '0']
+previ: ['0', '1', '0']
+
+frase: Pesquisadores de a Universidade_de_Michigan em Ann_Arbor, em os Estados_Unidos, sugerem que os olhos de asiáticos tendem a ver uma imagem em o seu conjunto, prestando tanto atenção a o que está em primeiro plano quanto em o fundo, enquanto os americanos demoram mais o olhar em o objeto central de um quadro.
+tripla: (Universidade_de_Michigan, em, Ann_Arbor)
+certo: ['1']
+previ: ['1']
+
+frase: Através_da Casa_de_Cinema de Porto_Alegre, esse grupo produziu obras-primas como o curta-metragem Ilha_das_Flores e apresentou para o país cineastas como Jorge_Furtado, considerado um de os mais interessantes realizadores de o cinema brasileiro atual.
+tripla: (Casa_de_Cinema, , Jorge_Furtado)
+certo: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '1', '1']
+previ: ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+
+frase: Em o Norte, uma força de o CICA_1 liderada por o Tenente-Coronel Carlos_Azeredo toma o Quartel_General_da_Região_Militar_do_Porto.
+tripla: (CICA_1, liderada por toma, Quartel_General_da_Região_Militar_do_Porto)
+certo: ['0', '0', '0', '0', '0', '1', '0']
+previ: ['1', '1', '0', '0', '0', '1', '0']
+
+
+precision: 0.9833333333333332
+recall: 0.6791666666666666
+f1: 0.8034252297410192
+positivos: 87
+negativos: 2
+acertos totais: 59
+encontrados: 60
+total positivos: 87
