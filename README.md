@@ -1,5 +1,6 @@
 # Relp++
 
+
 # Pré-requisitos
 
 1) Requisitos do J-NER
@@ -23,6 +24,16 @@
 		- TextFile_3.txt
 		- TextFile_4.txt
 
+
+# Passo a passo para instalação
+
+1) Clone este repositório.
+
+2) Instale o NER, veja como instalar [aqui](https://github.com/jneto04/ner-pt) (na seção "Reproduce our tests for NER").
+
+3) Após completar a instalação do NER, copie todo o conteúdo da pasta clonada e insira dentro da pasta 2_ner, dentro da pasta RelP++.
+
+
 # Execução
 
 1) Executando o CoGroo4py
@@ -34,5 +45,3 @@
 	- Abra outra janela do terminal e execute o seguinte comando: python3 pipeline.py nome_do_arquivo_sem_o_id
 
 						 Exemplo de execução: python3 pipeline.py TextFile_
-
-	
