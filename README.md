@@ -3,17 +3,13 @@
 
 # Pré-requisitos
 
-1) Requisitos do J-NER
-
-	- Revisar requisitos do J-NER 
-
-2) Requisitos do RELP
+1) Requisitos do RELP
 
  	- Java Runtime Environment 8+
  	- interpretador Python 3.x
  	- Pacote py4j, scikit-learn, sklearn-crfsuite, scipy, pandas (*pip3 install py4j scikit-learn sklearn-crfsuite scipy pandas*)
 
-3) Requisitos dos arquivos de entrada
+2) Requisitos dos arquivos de entrada
 	
 	- Formato de entrada: .txt
 	
