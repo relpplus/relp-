@@ -40,7 +40,7 @@ def relp(file):
     print("\n(4/4) - RelP")
 
     #Cogroo                         java -jar cogroo4py.jar
-    print("\nExecute paralelamente a ferramenta Cogroo em uma nova janela do terminal\nA ferramenta Cogroo se encontra na pasta 4_RelP\n\nPara executar esta ferramenta, utilize o comando abaixo:\njava -jar cogroo4py.jar")
+    #print("\nExecute paralelamente a ferramenta Cogroo em uma nova janela do terminal\nA ferramenta Cogroo se encontra na pasta 4_RelP\n\nPara executar esta ferramenta, utilize o comando abaixo:\njava -jar cogroo4py.jar")
     #os.system("java -jar 4_RelP/cogroo4py.jar")
 
     #choice = input("\n(1) - Continuar\t(2) - Sair\n\nApós executar a ferramenta, selecione uma das opções acima: ")
@@ -59,11 +59,11 @@ def relp(file):
 
         #Gerando features para teste    python3 features_teste.py Exemplos/texto_teste.txt
         print("\nGerando features para teste")
-        #os.system("python3 4_RelP/features_teste.py 4_RelP/Exemplos/Teste/all_sentences.txt")
+        os.system("python3 4_RelP/features_teste.py 4_RelP/Exemplos/Teste/all_sentences.txt")
 
         #Teste do modelo                python3 crf_teste.py features_teste.txt.gz modelo_padrao.txt.gz
         print("\nTestando modelo")
-        #os.system("python3 4_RelP/crf_teste.py 4_RelP/features_teste.txt.gz 4_RelP/modelo_treinado_sicredi.txt.gz")
+        os.system("python3 4_RelP/crf_teste.py 4_RelP/features_teste.txt.gz 4_RelP/modelo_treinado_sicredi.txt.gz")
 
     else:
         pass
@@ -77,13 +77,13 @@ def main(file_name):
     pre_processamento(file_name)
 
     #STAGE 2
-    #ner(file_adress)
+    ner(file_name)
 
     #STAGE 3
-    #ne_matcher(file_adress)
+    ne_matcher(file_name)
 
     #STAGE 4
-    #relp(file_adress)
+    relp(file_name)
 
 if __name__ == '__main__':
 

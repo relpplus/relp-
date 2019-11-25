@@ -1,0 +1,6 @@
+Aprender uma nova língua se tornou um processo mais divertido na Rensselaer Polytechnic Institute, universidade com sede em Nova York. Em parceria com a IBM Research, a instituição lançou o Mandarin Project, oferecendo aos alunos aulas de mandarim em um ambiente virtual 360º, com uma imersão pelas ruas, restaurantes e mercados de Pequim. 
+
+
+Durante as aulas, os alunos podem conversar com vendedores, pedir comida e interagir online com chineses. As conversas são feitas em tempo real graças aos diferentes recursos de Inteligência Artificial que entendem e respondem as dúvidas dos alunos. Os microfones usados pelos participantes das aulas são conectados diretamente aos algoritmos de reconhecimento de fala. 
+
+Além disso, câmeras espalhadas pelo ambiente rastreiam os movimentos dos alunos. Ao apontar para um objeto, por exemplo, os ajudantes virtuais explicam, em chinês, o que é e qual a função dele. Algumas perguntas — sobre a história de um determinado local ou prato — são respondidas com base em informações da Wikipedia. Durante as aulas, a solução ainda identifica o tom de voz dos alunos, corrigindo pronúncias.

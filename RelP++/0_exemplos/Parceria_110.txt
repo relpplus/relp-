@@ -1,0 +1,3 @@
+Em seu site, o Pitaia informa que é uma fintech brasileira de criptomoedas, com o objetivo de tornar o uso de Bitcoin simples e seguro. A empresa oferece Cartão Pré-pago, Empréstimos, Consórcios e Máquinas de POS, além de serviços como Pagamentos de boletos, recarga de celular, transferência entre contas, ATM e gateway para e-commerce.
+
+De acordo com a reportagem da revista Exame, por enquanto as transferências ainda não podem ser feitas, em razão do uso do blockchain nas operações, mas a partir do ano que vem, será estabelecida uma parceria com um banco para viabilizar esse serviço aos clientes. Desta forma, para usar o dinheiro que está na conta, a startup oferece um cartão de débito pré-pago com saldo em reais, não em Bitcoins.

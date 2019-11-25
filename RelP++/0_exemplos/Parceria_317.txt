@@ -1,0 +1,3 @@
+A Uber fechou uma parceria com a Serasa Experian para validar informações de usuários do aplicativo de transportes nesta quinta-feira (04). Segundo a Uber, a parceria cria uma ferramenta chamada U-Check, que foi desenvolvida pelo Centro de Desenvolvimento Tecnológico (Tech Center) em parceria com o time de engenheiros da Uber em San Francisco (EUA).
+ 
+A U-Check utilizará a base de dados da Serasa Experian para colher informações adicionais via API. Dessa maneira, a verificação do cadastro também cobrirá todos os novos usuários que optarem por não adicionar um cartão de crédito no momento de se registrarem já a partir deste mês — a empresa ainda comenta que a parceria abre caminho para novas “verificações diversas” no futuro, sem indicar quais seriam.

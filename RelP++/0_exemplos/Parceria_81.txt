@@ -1,0 +1,3 @@
+A legislação que trata dos direitos do consumidor brasileiro pode se tornar uma barreira para o crescimento do "open banking" no país. O entrave está na regra que determina a corresponsabilidade da cadeia de fornecedores em caso de vazamento de dados e roubo de valores dos clientes.
+
+"O Código de Defesa do Consumidor prevê a corresponsabilidade com toda a cadeia de fornecedores e, se essa regra for mantida no 'open banking', os bancos não terão o desejo de compartilhar informações com terceiros. Ou então farão parcerias muito restritas, com apenas uma empresa, por exemplo", disse o advogado Bruno Balduccini, do Pinheiro Neto Advogados, em evento em São Paulo.

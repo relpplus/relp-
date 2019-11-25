@@ -1,0 +1,2 @@
+A First Direct lançou o fdpay, um novo serviço que permite aos clientes fazer pagamentos peer-to-peer dentro de aplicativos de mídia social. Os primeiros clientes diretos agora podem fazer pagamentos peer-to-peer seguros de forma transparente enquanto usam aplicativos de mídia social, como WhatsApp e Facebook Messenger.
+O fdpay usa o serviço Paym do setor bancário do Reino Unido e foi construído em parceria com uma fintech.

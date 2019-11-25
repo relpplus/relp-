@@ -1,0 +1,4 @@
+O Banco do Brasil avança na estratégia de Open Banking e lança a primeira API (Interface de Programação de Aplicativos) de crédito do Brasil. Ampliando as parcerias de open banking, oferece agora a contratação de crédito consignado (servidor público e INSS) totalmente digital, com a bxblue, startup que oferece comparativo de taxas de crédito consignado para aposentados, pensionistas e funcionários públicos.
+Utilizando OAuth (padrão internacional de segurança), o cliente BB colocará seus dados em uma página segura BB e o banco fornecerá os dados necessários e autorizados para o aplicativo parceiro.
+
+Open Banking — O Banco do Brasil lançou a sua plataforma de open banking em junho do ano passado, com o Portal do Desenvolvedor (developers.bb.com.br). Em agosto, anunciou a primeira operação estruturada do país, numa parceria com a ContaAzul, que oferece uma plataforma de gestão empresarial para micro e pequenas empresas.

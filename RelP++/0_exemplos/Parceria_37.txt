@@ -1,0 +1,8 @@
+Zen Finance é o primeiro produto brasileiro de crédito como serviço (CaaS, na sigla em inglês), criado com objetivo de apoiar empreendedores para que marketplaces ofereçam soluções de crédito a seus clientes. O produto oferece toda infraestrutura, em um ambiente 100% digital, para que marketplaces concedam crédito aos seus vendedores. O pacote inclui análise de risco, funding, atendimento e cobrança.
+ Zen Finance aplica algoritmos de créditos e machine learning a informações do próprio marketplace, como histórico de vendas e faturamento, e as enriquece com mais de 200 pontos de dados não convencionais, como comportamento dos vendedores em redes sociais e satisfação do cliente.
+ 
+Por utilizar uma variedade ampla de dados, as ferramentas criadas pela Zen conseguem identificar de forma mais precisa, o comportamento do tomador de crédito, reduzindo o risco de inadimplência, além de prevenir fraudes.
+ 
+Depois da análise dos vendedores, é feita uma campanha, em parceria com o marketplace, para oferta de crédito personalizado.
+ 
+O empréstimo poderá ser pago em até 12 meses, e as taxas são cerca de 40% menores do que as oferecidas por instituições tradicionais.

@@ -1,0 +1,1 @@
+A linha de ônibus nº9 da rede pública de Xangai é a primeira da China a ter rotas definidas com base em dados dos passageiros. O projeto é realizado em parceria com a Alipay, plataforma de pagamentos da Alibaba, que fornece os algoritmos de Inteligência Artificial (IA) para a operação.

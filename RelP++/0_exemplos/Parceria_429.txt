@@ -1,0 +1,4 @@
+O Atualiza Fácil (parceria Braspag – Cielo e Masrtercard) permite a atualização automática dos cartões e maior segurança nas compras online.
+Nova feature do Cartão Protegido Braspag: tokenização de cartões Mastercard Digital Enablement Services (MDES) for Merchant.
+O Atualiza Fácil recupera automaticamente os novos dados do cartão em casos de vencimento ou bloqueio de forma segura e sem impactos na tokenização. 
+A solução também traz estratégias para minimizar fraudes: o consumidor pode fazer compras online sem que o número do cartão de crédito (PAN) seja exposto durante o fluxo de venda. A novidade também possibilita a geração de tokens exclusivos para o gateway de pagamento responsável por armazená-lo, o que impossibilita o uso do mesmo fora do ecossistema da Braspag.

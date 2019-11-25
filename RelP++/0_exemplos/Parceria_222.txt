@@ -1,0 +1,3 @@
+O Google começou a lançar um novo recurso que examina a caixa de entrada de um usuário do Gmail e adiciona automaticamente, na carteira do Google Pay, todos os cupons, cartões de fidelidade, cartões de embarque e ingressos de cinema encontrados.
+ 
+O recurso, que começou a ser lançado esta semana, está disponível através de opt-in no aplicativo do Google Pay para Android. Para ativá-lo, os usuários simplesmente acessam Configurações> Geral> Importações do Gmail para ativar o recurso.

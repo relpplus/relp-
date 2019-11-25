@@ -40,7 +40,9 @@
 
 	- Abra uma janela do terminal e execute o seguinte comando: java -jar cogroo4py.jar
 
-2) Executando o Relp++
+2) Coloque seus exemplos/arquivos dentro da pasta RelP++/0_exemplos
+
+3) Executando o Relp++
 
 	- Abra outra janela do terminal e execute o seguinte comando: python3 pipeline.py nome_do_arquivo_sem_o_id
 

@@ -1,0 +1,3 @@
+Cleo irá realizar serviços como consultas de saldos e limites, descrição de compras realizadas no cartão, emissão de 2ª via de boleto, parcelamento de fatura, entre outros
+
+A administradora de cartões de crédito para o mercado varejista, Cred-System, firmou parceria com a Neobpo, empresa especializada na oferta de soluções, tecnologia e serviços de BPO, para desenvolver um Assistente Virtual Inteligente

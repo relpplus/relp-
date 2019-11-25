@@ -1,0 +1,5 @@
+A Credz tinha como desafio aumentar suas ofertas para os consumidores entre 18 a 25 anos, cujo potencial de crédito é difícil de ser avaliado, uma vez que muitos desses jovens estão no mercado de trabalho informal, são desbancarizados ou compõem renda em seu núcleo familiar.
+A partir do uso das soluções analytics e dados alternativos Book 3D da TransUnion, aliadas à já utilizada solução para tomada de decisão Crivo e à plataforma de consulta que fornece informações ZipOnline, foi possível mapear e construir ofertas mais abrangentes para esse nicho de clientes, uma vez que elas oferecem dados e insights para ampliar o conhecimento sobre os perfis de compra, adaptando produtos à realidade desse público.
+Mais de 600 fontes de dados integradas automaticamente ao seu sistema, possibilitando a construção de seu próprio modelo de concessão de crédito e uma melhor compreensão de jovens sem histórico financeiro.
+
+Parceria Credz, uma das maiores administradoras e emissoras de cartões do Brasil, em parceria com a TransUnion, companhia global de soluções de informação

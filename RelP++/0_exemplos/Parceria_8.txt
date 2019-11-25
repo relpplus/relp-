@@ -1,0 +1,3 @@
+O Banco do Brasil vai permitir que clientes utilizem o WhatsApp para realizar algumas operações bancárias. Os testes começaram na última semana com um grupo seletivo de clientes e com funcionários da empresa, informou a Associação Nacional dos Funcionários do Banco do Brasil (ANABB).
+ 
+O sistema funciona basicamente como o que o BB já fornece através do Facebook Messenger. Um bot – isto é, um sistema automatizado – lê e responde às mensagens dos clientes identificando palavras-chave. Não há um atendente humano do outro lado, mas um software desenvolvido em parceria com a IBM.

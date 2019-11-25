@@ -1,0 +1,33 @@
+Como se não bastasse a concorrência acirrada dentro do setor, as empresas de "maquininhas" de cartão vêm tendo de lidar com a competição vinda de seus próprios clientes. Grandes redes de varejo estão desenvolvendo soluções que dispensam as credenciadoras, como transferências via carteiras digitais ou pagamentos com QR Code. Nesse grupo, destaque para Via Varejo, Magazine Luiza, Carrefour e B2W, dona das marcas Americanas.com e Submarino.
+
+As credenciadoras - também conhecidas como adquirentes - são responsáveis por viabilizar soluções para que estabelecimentos comerciais aceitem pagamentos com cartões. Segundo o Banco Central, existem mais de 20 competidores nesse mercado que até 2010 era centrado apenas em Cielo, do Banco do Brasil e Bradesco, e Rede, do Itaú Unibanco. Entre os novos concorrentes, estão a PagSeguro, do grupo UOL, e a Stone, que brigam numa guerra de taxas para vender suas maquininhas.
+
+As grandes varejistas já descobriram os serviços financeiros há tempos, com a oferta de crédito, inclusive por meio de cartões de marca própria, para alavancar as vendas. Para viabilizar o negócio, essas empresas fechavam parcerias com bancos ou financeiras ou criavam estruturas próprias.
+
+A novidade agora é que elas estão avançando no mercado das credenciadoras de cartões, criando assim uma nova fonte de receita. O modelo estudado, no entanto, não é padronizado. "Algumas estão tentando criar sua própria credenciadora, outras estão apostando nas carteiras digitais. E tem aquelas que buscam parcerias com as credenciadoras", disse Boanerges Ramos Freire, presidente da consultoria Boanerges & Cia.
+
+Empresas como O Boticário e o atacado Assaí, do Grupo Pão de Açúcar, decidiram lançar "subcredenciadoras", associando-se às grandes empresas de maquininhas, mas usando marca própria nos terminais distribuídos aos franqueados. "Com um volume maior de maquininhas, o grupo tem um poder de barganha alto junto à credenciadora e consegue negociar taxas e prazos", afirma Edson Santos, especialista em meios eletrônicos de pagamentos, com passagens por empresas como First Data e Rede.
+
+Criar uma credenciadora própria é o caminho mais complexo, segundo os especialistas. Os custos para desenvolver o modelo são altos e nem sempre compensam, diante do que o lojista deixa de gastar com as credenciadoras contratadas. "Quando você internaliza um serviço, precisa ter capacidade de fazer dentro de casa mais barato do que faria fora. Nesse caso, as varejistas precisariam ter uma tecnologia diferenciada e um custo mais baixo para poder ganhar", explica Santos.
+
+O movimento das carteiras ou contas digitais, segundo especialistas, é o mais avançado. O cliente pode fazer pagamentos tanto com cartão de loja ou de outra bandeira como via QR Code ou transferências de recursos entre contas - seja para o próprio varejista ou para um vendedor, no caso do marketplace (operação de venda de produtos de terceiros nos sites).
+
+Em todas essas modalidades de pagamento, a credenciadora pode ser dispensada, com exceção do cartão com bandeira, tais como Visa, Mastercard e Elo. A questão é que boa parte do dinheiro ainda está nos bancos, bandeiras e credenciadoras, que é um sistema mais caro para os varejistas, diz Tulio Oliveira, diretor do Mercado Pago no Brasil, conta digital do Mercado Livre.
+
+A empresa lançou no ano passado o pagamento via QR Code e, até dezembro deste ano, não cobrará taxa do varejista por viabilizar as operações. Quando passar a cobrar, Oliveira diz que será inferior à do cartão de débito. Além disso, o recurso é liberado na hora ao varejista, diferentemente do que ocorre no modelo tradicional, que demora cerca de 28 dias. Para sustentar o crescimento da carteira digital e dos fretes, subsidiando os clientes, o Mercado Livre anunciou neste mês uma captação de US$ 2 bilhões.
+
+A Via Varejo anunciou parceria com a AirFox Brasil, subsidiária da americana CarrierEQ Airfox, para que o pagamento das compras seja feito por transferências pelo aplicativo. A B2W tem a Ame Digital, carteira digital que dá créditos para usar em compras feitas pelo aplicativo.
+
+Já o Carrefour está testando o Carrefour Pay, importado da Europa, que começou focado em postos de combustível e algumas lojas do Carrefour Express (de até 150 metros quadrados). O Magazine Luiza, por sua vez, está desenvolvendo seu projeto a sete chaves, o que inclui até mesmo a ida do diretor-presidente Frederico Trajano à China.
+
+Davi Holanda, ex-executivo da PagSeguro e atual presidente da fintech Acesso, de cartões pré-pagos, afirma que a disrupção no setor virá justamente desse novo modelo das carteiras digitais. "Para eu pagar minha compra, basta transferir da minha carteira digital para a do restaurante ou da loja."
+
+Como alguns pagamentos na carteira digital não passam pela credenciadora, de cada transação que é feita, é descontado um valor menor do vendedor. Dados do mercado obtidos pelo Valor mostram que a taxa de desconto do vendedor chega a ser de 30% a 50% inferior na carteira digital em relação ao modelo tradicional.
+
+"O desenvolvimento de meios de pagamento por varejistas traz mais competição ao mercado, e ela pode ser saudável se eles praticarem taxas de desconto mais parecidas com as do mercado global", diz Bernardo Bonjean, fundador da Avante, fintech de microcrédito e soluções de pagamento. Enquanto no Brasil as taxas a cada transação ficam em 1,5% no débito e 2,6% no crédito, na China, segundo Bonjean, elas são em média de 0,6%.
+
+O discurso das adquirentes, diante da nova ameaça, é que elas oferecem não apenas pagamento, mas um pacote de serviços que agrega valor ao cliente. "Existe a tendência de as varejistas buscarem sua forma de pagamento, mas a maioria delas depende da tecnologia que a Cielo provê, como soluções para combater fraudes", disse Paulo Caffarelli, presidente da empresa que lidera o mercado, durante a divulgação de resultados do quarto trimestre de 2018.
+
+Especialistas dizem que, embora uma fatia menor do resultado final das credenciadoras decorra das operações dos grandes varejistas, uma vez que as taxas cobradas deles são mais baixas e empatam com as despesas de prestar o serviço, esses clientes permitem diluir os custos da operação.
+
+Segundo Ramos Freire, da Boanerges & Cia, as credenciadoras estão tentando se salvar, baixando preços, investindo em marketing e trocando os gestores. "Mas esse setor está mudando, e vai mudar muito mais. Pode chegar a um ponto em que as credenciadoras vão se tornar desnecessárias."

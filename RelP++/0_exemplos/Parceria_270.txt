@@ -1,0 +1,15 @@
+A Via Varejo entrou na onda dos meios de pagamento alternativos e lançou nesta quarta-feira, 5, o banco digital banQi, desenvolvido em parceria com a startup americana Airfox. O objetivo, segundo a companhia, é atender as classes C, D e E, que têm pouco acesso a bancos e crédito.
+Em breve, serão disponibilizados outros serviços, como empréstimos pessoais, saques, cartão pré-pago, conta remunerada, seguros, portabilidade de conta salário, cashback e cartão de crédito.
+ 
+A expectativa da Via Varejo é que o banQi se torne líder no mercado digital em menos de um ano. Hoje, a principal fintech desse segmento é o Nubank, que tem 8,5 milhões de clientes, sendo 4,8 milhões na NuConta.
+O que já tem
+Depósito: por meio do app, o cliente escolhe se quer depositar via boleto bancário ou transferência. Também é possível fazer o depósito em dinheiro por meio de agências dos principais bancos de varejo e nas lojas das Casas Bahia.
+ 
+Pagamentos: permite pagar boletos e contas via QR Code e leitura de código de barras.
+ 
+Carnê Digital: o tradicional carnê das Casas Bahia começou a ganhar formato digital desde dezembro do ano passado e agora será possível pagá-lo por meio do banQi.
+ 
+O que ainda virá
+Saques: em lojas Casas Bahia e agências bancárias, com limite ainda a ser determinado. Nesses estabelecimentos, não será cobrada tarifa, mas, no futuro, haverá taxa para saque nos caixas eletrônicos. O valor ainda não foi determinado.
+ 
+Empréstimos: utilizará a base de dados dos clientes e migrará para machine learning, de modo a acelerar a análise e concessão de crédito.
